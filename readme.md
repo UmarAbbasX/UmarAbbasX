@@ -47,7 +47,7 @@ I enjoy managing full projects from setting up the database to writing backend l
 - Bootstrap  
 - Alpine.js  
 - Livewire  
-- Angular (basic)  
+- Angular
 - React (basic)  
 - Next.js (basic)
 
